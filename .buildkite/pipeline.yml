@@ -1,0 +1,4 @@
+steps:
+  - label: "Docker buiding images"
+    commands:
+      - docker compose up -d
